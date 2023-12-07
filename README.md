@@ -1,6 +1,6 @@
 # 20CS713-PROJECTPHASE-I-C18
 
-### Project Title: Converting Handwritten Images and Documents to text using Advanced OCR Techniques
+### Project Title: Converting Handwritten Images and Documents to text using Advanced OCR Techniques.
 
 
 ### Project Domain: Artificial Intelligence
